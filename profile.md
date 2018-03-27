@@ -6,6 +6,5 @@ I am qualified as a mechanical engineer, and also accredited as a professional e
 
 I have edited work for several engineering fields, including railways, powerplants, and household appliances.
 
-to learn more, please read my CV
-<with link to pdf of my CV>
+to learn more, please read [my CV](/CV - 2017 new.pdf)
 
