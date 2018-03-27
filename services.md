@@ -13,6 +13,4 @@ This service is recommended for all kinds of different technical documents, incl
 
 I can provide any ‘level’ of editing work – from a final last-minute polish, to simply having a whole stack of random papers thrown my way with a request to make them into something coherent.
 
-enquire about a document review today
-<with link to “send an enquiry” page>
-
+[enquire about a document review today](mailto:mez@dz-editing.com)
