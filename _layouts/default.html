@@ -14,23 +14,20 @@
   </head>
   <body>
     <div id="container">
-      <div class="inner">
+      <div class="headliner">
         <header>
           <h1><img alt="DZ Editing" src="/logo.png"/></h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
         </header>
-        <hr>
-        <nav>
-
-          <a href="/">Home</a>
-          <a href="/profile">Profile</a>
-
-          <a href="/services">Services</a>
-
-          <a href="mailto:mez@dz-editing.com">Contact</a>
-
-
-        </nav>
+      </div>
+      <nav>
+        <a href="/">Home</a>
+        <a href="/profile">Profile</a>
+        <a href="/services">Services</a>
+        <a href="mailto:mez@dz-editing.com">Contact</a>
+      </nav>
+      <hr />
+      <div class="inner">
         <section id="main_content">
           {{ content }}
         </section>

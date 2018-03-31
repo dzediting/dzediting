@@ -2,3 +2,32 @@
 ---
 
 @import "{{ site.theme }}";
+
+.headliner {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+
+  header {
+    text-align: center;
+    flex-grow: 1;
+  }
+  img {
+    max-width: 100wv;
+  }
+}
+
+nav {
+  flex-grow: 3;
+  display: flex;
+  justify-content: space-around;
+  font-size: 140%;
+
+  max-width: 620px;
+  margin: auto;
+
+  a {
+    color: #00094b;
+  }
+}
+
