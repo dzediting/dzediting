@@ -1,8 +1,8 @@
 #	DZ Editing
 
-(with logo)		<see “Logo” pdf>
+![DZ Editing logo](/logo.png)
 
-## document review services
+## Document Review Services
 
 Maryanne Park
 
@@ -10,4 +10,4 @@ Maryanne Park
 
 dz.editing@gmail.com
 
-Screenshot of train correx <see “Train Correx” pdf>
+![Example of correction work](/train-correx.png)
