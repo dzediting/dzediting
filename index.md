@@ -1,7 +1,3 @@
-#	DZ Editing
-
-![DZ Editing logo](/logo.png)
-
 ## Document Review Services
 
 Maryanne Park
